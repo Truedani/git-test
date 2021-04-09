@@ -1,1 +1,1 @@
-print('From branch1!')
+print('Hello from Master!')
